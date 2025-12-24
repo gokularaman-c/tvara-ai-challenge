@@ -12,6 +12,7 @@ A simple Python CLI that accepts a prompt and forwards it to the Google Gemini
 
 ### How to Run
 export GEMINI_API_KEY="YOUR_API_KEY"
+
 python task_b_gemini_cli.py "Explain RAG in 2 lines"
 
 ### Note on API Key
