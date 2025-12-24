@@ -34,4 +34,4 @@ python task_c_embeddings.py
 
 ---
 
-Additional tasks will be added to this repository as they are completed.
+
